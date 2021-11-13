@@ -96,6 +96,7 @@ nav ul li a {
 .text button {
     text-align: center;
     margin-top: 10px;
+    border: none;
 }
 
 .second {
@@ -187,8 +188,7 @@ nav ul li a {
 }
 
 .minitext {
-    text-align: center;
-    text-align: justify;
+    text-align: left;
     font-size: 24px;
     padding-top: 20px;
     padding-right: 40px;
@@ -218,6 +218,7 @@ button {
     background-color: #3882F6;
     color: white;
     border-radius: 10px;
+    border: 1px solid white;
 }
 
 .action-title {
